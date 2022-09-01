@@ -9,12 +9,7 @@
 </style>
 
 <div class="test-label">
-    <h1>Beti Test: gylwu</h1>
-    <br />
-    <h2><a href="https://entainau--uat.sandbox.lightning.force.com/lightning/r/Account/0019p000005BNoGAAW/view"
-        target="_blank">Account</a></h2>
-    <br />
-    <h2>Client ID: <code>af7b37d4-f713-4b6f-b13d-18172ecbbcb6</code></h2>
+    <h1>Beti Embed Test: Github - Channel</h1>
   </div>
 
 <script type='text/javascript' src='https://service.force.com/embeddedservice/5.0/esw.min.js'></script>
